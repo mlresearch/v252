@@ -15,8 +15,7 @@ issn: 2640-3498
 id: MLHC-2024
 month: 0
 cycles: false
-bibtex_editor: Deshpande, Kaivalya and Fiterau, Madalina and Joshi, Shalmali and Lipton,
-  Zachary and Ranganath, Rajesh and Urteaga, I\~nigo
+bibtex_editor: Deshpande, Kaivalya and Fiterau, Madalina and Joshi, Shalmali and Lipton, Zachary and Ranganath, Rajesh and Urteaga, I\~nigo
 editor:
 - given: Kaivalya
   family: Deshpande
@@ -88,5 +87,7 @@ analytics:
   google:
     tracking_id: UA-92432422-1
 orig_bibfile: "/Users/neil/mlresearch/v252/mlhc2024_accepted_submissions.bib"
+link_visibility:
+  openreview: false
 # Site settings
 # Original source:  /Users/neil/mlresearch/v252/mlhc2024_accepted_submissions.bib
