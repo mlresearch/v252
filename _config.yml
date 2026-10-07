@@ -4,7 +4,7 @@ volume: '252'
 shortname: MLHC
 conference_number: '9'
 year: '2024'
-start: &1 2024-08-16
+start: 2024-08-16
 end: 2024-08-17
 published: 2024-11-25
 url: https://proceedings.mlr.press
@@ -81,7 +81,7 @@ conference:
   url:
   location: Toronto, Canada
   dates:
-  - *1
+  - 2024-08-16
   - 2024-08-17
 analytics:
   google:
